@@ -1,0 +1,26 @@
+1,Iphone 16,Smartphones,1600
+2,Iphone 15,Smartphones,1500
+3,Iphone 14,Smartphones,1400
+4,Iphone 13,Smartphones,1300
+5,Iphone 12,Smartphones,1200
+6,Iphone 11,Smartphones,1100
+7,Iphone 10,Smartphones,1000
+8,Iphone 9,Smartphones,900
+9,Iphone 8,Smartphones,800
+10,Iphone 7,Smartphones,700
+11,Iphone 6,Smartphones,600
+12,Iphone 5,Smartphones,500
+13,Iphone 4,Smartphones,400
+14,Iphone 3,Smartphones,300
+15,Iphone 2,Smartphones,200
+16,Iphone 1,Smartphones,100
+126,HP,TI,1200
+127,CocaCola,Food,2
+128,Iphone16,Technology,3
+129,Sofa,Furniture,10
+130,Batman,Entertainment,10
+131,Matilda,Books,10
+132,CocaCola,Food,2
+133,Iphone16,Technology,3
+134,Sofa,Furniture,10
+135,Batman,Entertaiment,12
